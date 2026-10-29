@@ -1,0 +1,23 @@
+{
+  "name": "ai-tutorlab-marketplace",
+  "owner": {
+    "name": "AI튜터랩"
+  },
+  "metadata": {
+    "description": "AI튜터랩 사내 업무용 플러그인 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "company-work-kit",
+      "source": "./plugins/company-work-kit",
+      "description": "보고서 작성 스킬, 회의록 정리 스킬, Google Docs 커넥터를 하나로 묶은 사내 업무용 플러그인",
+      "version": "0.1.0",
+      "keywords": [
+        "report",
+        "meeting-minutes",
+        "korean",
+        "google-docs"
+      ]
+    }
+  ]
+}
