@@ -1,0 +1,15 @@
+{
+  "name": "company-work-kit",
+  "version": "0.1.0",
+  "description": "보고서 작성 스킬, 회의록 정리 스킬, Google Docs 커넥터를 하나로 묶은 사내 업무용 플러그인입니다.",
+  "author": {
+    "name": "AI튜터랩"
+  },
+  "keywords": [
+    "report",
+    "meeting-minutes",
+    "korean",
+    "google-docs",
+    "internal"
+  ]
+}
